@@ -1,6 +1,5 @@
 # Racial_bias_exercise
 
-I am getting an error in line 13 that I can't figure out. Is it possible for you to take a look there? 
+Used permutation bootstrap sampling to test probability of white and black sounding names getting the same call-back rates, based on available data. 
 
-Thank you, 
-Ali
+Code and explanation in the ipynb file attached.
